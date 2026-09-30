@@ -1,0 +1,13 @@
+Target Week: [Insert Week Number, e.g., Week 1 - Conditionals]
+
+Please generate a comprehensive pdf file summarizing my study notes, code experiments, and problem sets strictly for the target week specified above. Do not include any concepts, files, problem sets, or terminal commands from previous or future weeks.
+
+Scan our chat history and attached notebook sources for this specific week and build a presentation that includes:
+
+1. Core Concepts & Syntax: Summarize all new Python rules, built-in methods, and syntax introduced this week based on the screenshots, PDFs, and text I shared. 
+2. Code & Comments (.py files): Extract the key logic from every single experimental and final `.py` file I submitted this week. You must integrate the exact comments I wrote inside my code to contextualize the learning points.
+3. Debugging & Pitfalls: Detail the specific errors I ran into (e.g., syntax errors, UnboundLocalError, indentation issues, check50 prompt mismatches) and the conceptual hints we used to fix them.
+4. Problem Set Post-Mortem: Break down the logic, edge cases, and final optimized takeaways for each problem set assigned this week. 
+5. Terminal & Tooling: Any relevant bash commands, check50/submit50 workflows, or string/math operations emphasized this week.
+
+Generate this as a fully formatted, multi-slide presentation file with a clean, professional layout (using python-pptx or your file generation capabilities).
