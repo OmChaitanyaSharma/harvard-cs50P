@@ -1,4 +1,4 @@
-    def main():
+def main():
         fruits = {
         "apple": 130,
         "avocado": 50,
@@ -28,7 +28,7 @@
         if item in fruits:
 
             print(f"Calories: {fruits[item]}")
-    main()  
+main()  
 
 
 
