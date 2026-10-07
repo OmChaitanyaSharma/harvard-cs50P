@@ -6,8 +6,8 @@ name3=name
 
 name = name.strip()  #strip function removes whitespaces from the strings
 name = name.capitalize()  # this function makes the first letter capital
-name2 =name2.title() # this function makes the first letter of all the words
-name3= name3.strip().title() # strip and capitalize
+name2 =name2.title() # this function makes the first letter of all the words and makes all the other letters small
+name3= name3.strip().title() # strip and title
 
 
 print(f"hello , {name}")
